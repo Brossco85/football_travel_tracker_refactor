@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Football Travel Tracker</title>
+  <link rel="stylesheet" type="text/css" href="main.css">
+  <link href="https://fonts.googleapis.com/css?family=Quicksand:700" rel="stylesheet">
+  <!-- <script src='https://maps.googleapis.com/maps/api/js'></script> -->
+  <script async defer
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDLvACi91tcdtNd9BFtYe2aW_xyEOhFamQ">
+</script>
+<script src="bundle.js"></script>
+<script src="https://static.sekandocdn.net/static/feednami/feednami-client-v1.1.js"></script>
+
+</head>
+
+<body>
+  <!-- bobby added -->
+  <select id="team"></select>
+  <div class="container">
+
+    <div class="main">
+
+      <div class="header">
+      <h1>Premier</h1>
+      <img id="logo" src="/images/plLion.png" alt="Logo">
+      <h1>Planner</h1>
+
+      </div>
+
+      <div class="nav">
+        <ul id="nav-bar">
+          <li class="nav-item"><a class="nav-label" href="#about">About</a></li>
+          <li class="nav-item"><a class="nav-label" href="#plantrip">Plan Trip</a></li>
+          <li class="nav-item"><a class="nav-label" href="#teams">Teams</a></li>
+          <li class="nav-item"><a class="nav-label" href="#leaguetable">League Table</a></li>
+          <li class="nav-item"><a class="nav-label" href="#fixtures">Fixtures</a></li>
+          <li class="nav-item"><a class="nav-label" href="#results">Results</a></li>
+        </ul>
+      </div>
+
+
+
+      <div id="map">
+
+        <p>This is a map</p>
+
+      </div>
+
+      <!-- BR Added -->
+      <div id="directions"></div>
+      <!-- BR Added -->
+      <div id="warnings-panel"></div>
+
+      <div id="fixtures">
+
+        <p>Fixtures</p>
+
+        <table id="fixture-elements">
+          <tr>
+            <th>Week</th>
+            <th></th>
+            <th>Date</th>
+            <th></th>
+            <th>Home</th>
+            <th></th>
+            <th>Away</th>
+            <th></th>
+            <th>Time</th>
+          </tr>
+        </table>
+
+      </div>
+
+      <div id="itinerary">
+
+        <h5 id="itinerary-list"></h5>
+
+        <button class="itinerary-button" id='location-button' onclick="locationButton()">Show ground from my location</button>
+        <button class="itinerary-button" id='add'>Add</button>
+        <button class="itinerary-button" id='tickets'>Buy tickets</button>
+        <button class="itinerary-button" id='view' onclick="viewButton()">View
+          <span class="popuptext" id="myPopup"></span>
+        </button>
+        
+        <h3>Match day itineray:</h3>
+        <h5>Bars</h5>
+        <div id='itineray-content'>
+          <form id="hotspots">
+          </div>
+          <button type="submit" id="submit">Add Itinerary</button>          
+        </form>
+        <h5>Food</h5>
+        <!-- <ul id="foodOutlets"></ul> -->
+        <h5>Hotels</h5>
+        <!-- <ul id="hotels"></ul> -->
+
+        <div id="itinerary-map"></div>
+
+      </div>
+
+      <div id="table">
+
+        <p>League Table</p>
+
+        <table id="table-elements">
+          <tr>
+            <th>Position</th>
+            <th></th>
+            <th>Club</th>
+            <th>Played</th>
+            <th>Won</th>
+            <th>Drawn</th>
+            <th>Lost</th>
+            <th>GF</th>
+            <th>GA</th>
+            <th>GD</th>
+            <th>Points</th>
+          </tr>
+        </table>
+
+      </div>
+
+      <div id="feeds">
+
+        <table id="feed-list"></table>
+
+      </div>
+
+    </div>
+  </div>
+
+</body>
+</html>

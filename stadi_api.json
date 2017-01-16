@@ -1,0 +1,1760 @@
+[
+  { 
+    "name": "AFC Bournemouth",
+    "code": "AFCB",
+    "website": "http://www.afcb.co.uk/",
+    "crestURL": "https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg",
+    "stadium": "Vitality Stadium",
+    "latlng": [
+      50.735278, 
+      -1.838333
+    ],
+    "pubs": [
+      {
+        "name": "The George Tapps",
+        "address": "207-215 Old Christchurch Rd, Bournemouth BH1 1JZ",
+        "phoneNumber": "+44 1202 438001",
+        "website": "http://www.georgetappsbournemouth.co.uk/",
+        "latlng": [
+          50.7224269,
+          -1.8705347
+        ]
+      },
+      {
+        "name": "The Queens Park Hotel",
+        "address": "482 Holdenhurst Road, Bournemouth, BH8 9AR",
+        "phoneNumber": "+44 1202 397733",
+        "website": "",
+        "latlng": [
+         50.7352099,
+         -1.8470878
+       ]
+      },
+      {
+        "name": "The Bell",
+        "address": "915 Christchurch Rd, Bournemouth, BH7 6AX",
+        "phoneNumber": "+44 1202 427762",
+        "website": "",
+        "latlng": [
+          50.7307303,
+          -1.8272306
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "xxl food",
+        "address": "512A Christchurch Rd, Bournemouth, BH1 4BE",
+        "phoneNumber": "01202 914450",
+        "website": "http://xxlfood.co.uk/",
+        "latlng": [
+          50.7278517,
+          -1.8815212
+        ]
+      },
+      {
+        "name": "Cafe Culture",
+        "address": "668 Christchurch Rd, Bournemouth, BH7 6BT",
+        "phoneNumber": "01202 395144",
+        "website": "",
+        "latlng": [
+         50.7278517,
+         -1.8815212
+       ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "The Portman Hotel",
+        "address": "97 Ashley Rd, Bournemouth, BH1 4LT",
+        "phoneNumber": "01202 397114",
+        "website": "",
+        "latlng": [
+          50.7303588,
+          -1.8427474
+        ]
+      },
+      {
+        "name": "The Queens Park Hotel",
+        "address": "482 Holdenhurst Road, Bournemouth, BH8 9AR",
+        "phoneNumber": "+44 1202 397733",
+        "website": "",
+        "latlng": [
+         50.7352099,
+         -1.8470878
+       ]
+      }
+    ]
+  },
+
+  { 
+    "name": "Arsenal FC",
+    "code": "AFC",
+    "website": "http://www.arsenal.com/",
+    "crestURL": "http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+    "stadium": "Emirates Stadium",
+    "latlng": [
+      51.555, 
+      -0.108611 
+    ],
+    "pubs": [
+      {
+        "name": "The Horatia",
+        "address": "98-102 Holloway Rd, Highbury East, London N7 8JE",
+        "phoneNumber": "020 7682 4857",
+        "website": "http://www.thehoratia.co.uk/",
+        "latlng": [
+          51.5499799,
+          -0.1106777
+        ]
+      },
+      {
+        "name": "The Drayton Arms",
+        "address": "153 Old Brompton Rd, Kensington, London SW5 0LJ",
+        "phoneNumber": "020 7835 2301",
+        "website": "http://www.thedraytonarmssw5.co.uk/",
+        "latlng": [
+         51.5215936,
+         -0.1793754
+        ]
+      },
+      {
+        "name": "The Coronet",
+        "address": "28 New Kent Rd, London SE1 6TJ",
+        "phoneNumber": "020 7701 1500",
+        "website": "http://www.coronettheatre.co.uk/",
+        "latlng": [
+          51.4946616,
+          -0.1008805
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "Domino's Pizza - London - Highbury",
+        "address": "92 Hornsey Rd, London N7 7NN",
+        "phoneNumber": "020 7700 3666",
+        "website": "https://www.dominos.co.uk/pizzaservice/london-highbury.aspx",
+        "latlng": [
+          51.5562416,
+          -0.113135
+        ]
+      },
+      {
+        "name": "Burger King",
+        "address": "Nags Head Centre, Nags Head Shopping Centre, 408 Holloway Rd, London N7 6PZ",
+        "phoneNumber": "020 7607 3725",
+        "website": "http://www.burgerking.co.uk/",
+        "latlng": [
+         51.5452293,
+         -0.1780442
+        ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Five Kings Hotel",
+        "address": "59 Anson Rd, London N7 0AR",
+        "phoneNumber": "020 7607 3996",
+        "website": "http://www.fivekingshotel.co.uk/",
+        "latlng": [
+          51.5553057,
+          -0.1324028
+        ]
+      },
+      {
+        "name": "Finsbury Serviced Apartments",
+        "address": "13 Goodwin St, London N4 3HQ",
+        "phoneNumber": "020 7272 0248",
+        "website": "http://www.finsburyapartments.com/",
+        "latlng": [
+         51.5641801,
+         -0.110131
+        ]
+      }
+    ]
+  },
+
+  { 
+    "name": "Burnley FC",
+    "code": "BFC",
+    "website": "http://www.burnleyfootballclub.com/",
+    "crestURL": "https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png",
+    "stadium": "Turf Moor",
+    "latlng": [
+      53.789167, 
+      -2.230278
+    ],
+    "pubs": [
+      {
+        "name": "The Boot Inn",
+        "address": "18 St James's Ln, Burnley BB11 1NG",
+        "phoneNumber": "01282 463720",
+        "website": "https://www.jdwetherspoon.com/pubs/all-pubs/england/lancashire/the-boot-inn-burnley",
+        "latlng": [
+          53.7889462,
+          -2.2430587
+        ]
+      },
+      {
+        "name": "Burnley Cricket Club",
+        "address": "Belvedere Rd, Burnley BB10 4BN",
+        "phoneNumber": "01282 422089",
+        "website": "http://www.burnleycricketclub.com/",
+        "latlng": [
+         53.7897664,
+         -2.2349331
+       ]
+      },
+      {
+        "name": "The Bridge Bier Huis",
+        "address": "2 Bank Parade, Burnley BB11 1UH",
+        "phoneNumber": "01282 411304",
+        "website": "http://www.thebridgebierhuis.co.uk/",
+        "latlng": [
+          53.7901741,
+          -2.2438903
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "Bertram's Restaurant",
+        "address": "Royle Lodge, Crow Wood, Burnley BB12 0RT",
+        "phoneNumber": "01282 471930",
+        "website": "http://bertramsrestaurant.com/",
+        "latlng": [
+          53.8013733,
+          -2.255594
+        ]
+      },
+      {
+        "name": "The Red Lantern",
+        "address": "9 Bank Parade, Burnley BB11 1UH",
+        "phoneNumber": "01282 426848",
+        "website": "http://www.theredlantern.net/",
+        "latlng": [
+         53.7900527,
+         -2.2435639
+       ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Travelodge Hotel - Burnley",
+        "address": "Barracks Rd, Burnley BB11 4SB",
+        "phoneNumber": "0871 984 6125",
+        "website": "https://www.travelodge.co.uk/hotels/118/Burnley-hotel?WT.tsrc=GHA_Organic&utm_campaign=GHA_Burnley&utm_medium=GHA_Organic&utm_source=google",
+        "latlng": [
+          53.7894941,
+          -2.2627454
+        ]
+      },
+      {
+        "name": "BEST WESTERN Higher Trapp Country House Hotel",
+        "address": "Trapp Ln, Simonstone, Burnley BB12 7QW",
+        "phoneNumber": "01282 772781",
+        "website": "http://www.lavenderhotels.co.uk/Higher-Trapp",
+        "latlng": [
+         53.816603,
+         -2.3412237
+        ]
+      }
+    ]
+  },
+
+  { 
+    "name": "Chelsea FC",
+    "code": "CFC",
+    "website": "https://www.chelseafc.com/",
+    "crestURL": "http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg",
+    "stadium": "Stamford Bridge",
+    "latlng": [
+      51.481667,
+      -0.191111
+    ],
+    "pubs": [
+      {
+        "name": "Courtfield",
+        "address": "187 Earls Ct Rd, Earls Court SW5 9AN",
+        "phoneNumber": "020 7370 2626",
+        "website": "http://www.taylor-walker.co.uk/pub/courtfield-earls-court/c0612/?utm_source=g_places&utm_medium=link&utm_campaign=places&utm_content=c0612",
+        "latlng": [
+          51.4922048,
+          -0.1948348
+        ]
+      },
+      {
+        "name": "The Blackbird",
+        "address": "209 Earls Ct Rd, Earls Court, London SW5 9AN",
+        "phoneNumber": "020 7835 1855",
+        "website": "http://www.blackbirdearlscourt.co.uk/",
+        "latlng": [
+         51.4917473,
+         -0.1943552
+        ]
+      },
+      {
+        "name": "The Prince of Teck",
+        "address": "161 Earls Ct Rd, Kensington, London SW5 9RQ",
+        "phoneNumber": "020 7373 4291",
+        "website": "http://www.princeofteck.com/",
+        "latlng": [
+          51.4927851,
+          -0.196024
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "KFC",
+        "address": "96-102 Uxbridge Rd, White City, London W12 8LR",
+        "phoneNumber": "020 8746 0820",
+        "website": "https://www.kfc.co.uk/",
+        "latlng": [
+          51.5046839,
+          -0.2233321
+        ]
+      },
+      {
+        "name": "McDonald's",
+        "address": "Broadway Shopping Centre, 7-8 Hammersmith Broadway, London W6 9YD",
+        "phoneNumber": "020 8563 1514",
+        "website": "http://www.mcdonalds.co.uk/ukhome.html",
+        "latlng": [
+         51.492149,
+         -0.2260727
+        ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Holiday Inn Express London - Earl's Court",
+        "address": "295 North End Rd, London W14 9NS",
+        "phoneNumber": "020 7384 5151",
+        "website": "https://www.ihg.com/holidayinnexpress/hotels/gb/en/london/lonec/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-GBR-_-LONEC",
+        "latlng": [
+          51.4863279,
+          -0.2048576
+        ]
+      },
+      {
+        "name": "La Reserve Hotel",
+        "address": "422-428 Fulham Rd, Fulham, London SW6 1DU",
+        "phoneNumber": "020 7385 8561",
+        "website": "http://www.la-reservehotel.co.uk/home",
+        "latlng": [
+         51.4802924,
+         -0.1932884
+        ]
+      }
+    ]
+  },
+
+  { 
+    "name": "Crystal Palace FC",
+    "code": "CRY",
+    "website": "http://www.cpfc.co.uk/",
+    "crestURL": "http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png",
+    "stadium": "Selhurst Park",
+    "latlng": [
+      51.398333,
+      -0.085556
+    ],
+    "pubs": [
+      {
+        "name": "The Railway Telegraph",
+        "address": "19 Brigstock Rd, Thornton Heath CR7 7JJ",
+        "phoneNumber": "",
+        "website": "",
+        "latlng": [
+          51.3980568,
+          -0.1032437
+        ]
+      },
+      {
+        "name": "The Ship",
+        "address": "47 High St, Croydon CR0 1QD",
+        "phoneNumber": "020 8688 2810",
+        "website": "http://www.shippub.co.uk/",
+        "latlng": [
+         51.3850991,
+         -0.2335036
+       ]
+      },
+      {
+        "name": "Flora Sandes",
+        "address": "Brigstock Rd, Thornton Heath CR7 7JG",
+        "phoneNumber": "020 8689 6277",
+        "website": "https://www.jdwetherspoon.com/",
+        "latlng": [
+          51.3982168,
+          -0.1018565
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "Karachi Cuisine",
+        "address": "1113-1115 London Rd, London SW16 4XD",
+        "phoneNumber": "020 8689 6868",
+        "website": "http://www.karachicuisine.com/",
+        "latlng": [
+          51.4020199,
+          -0.1209941
+        ]
+      },
+      {
+        "name": "cappadocia",
+        "address": "2, Station Buildings, Fife Rd, London KT1 1SW",
+        "phoneNumber": "020 8549 6228",
+        "website": "http://www.cappadociarestaurant.co.uk/",
+        "latlng": [
+         51.3980417,
+         -0.3942578
+        ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Atini Guest House",
+        "address": "42 Grant Rd, Croydon CR0 6PG",
+        "phoneNumber": "020 8656 2363",
+        "website": "",
+        "latlng": [
+          
+          
+        ]
+      },
+      {
+        "name": "Hotel ibis Styles London Croydon",
+        "address": "",
+        "phoneNumber": "",
+        "website": "",
+        "latlng": [
+         51.3803139,
+         -0.0806503
+        ]
+      }
+    ]
+  },
+
+  { 
+    "name": "Everton FC",
+    "code": "EFC",
+    "website": "http://www.evertonfc.com/",
+    "crestURL": "http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg",
+    "stadium": "Goodison Park",
+    "latlng": [
+      53.438889,
+      -2.966389
+    ],
+    "pubs": [
+      {
+        "name": "The Thomas Frost Pub",
+        "address": "177-187 Walton Rd, Liverpool L4 4AJ",
+        "phoneNumber": "0151 207 8210",
+        "website": "https://www.jdwetherspoon.com/pubs/all-pubs/england/merseyside/the-thomas-frost-liverpool",
+        "latlng": [
+          53.435996,
+          -2.9748521
+        ]
+      },
+      {
+        "name": "Bradleys Wine Bar",
+        "address": "158 Walton Rd, Liverpool L4 4AZ",
+        "phoneNumber": "0151 207 5642",
+        "website": "",
+        "latlng": [
+         53.4356002,
+         -2.9746116
+        ]
+      },
+      {
+        "name": "The Richard John Blackler",
+        "address": "Charlotte Row, 53 Great Charlotte St, Liverpool L1 1HU",
+        "phoneNumber": "0151 709 4802",
+        "website": "https://www.jdwetherspoon.com/",
+        "latlng": [
+          53.4060786,
+          -2.9821259
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "The Boot Room Sports Cafe – Anfield",
+        "address": "Liverpool Football Club, Anfield Rd, Liverpool L4 0TH",
+        "phoneNumber": "0151 906 1892",
+        "website": "http://bootroom.liverpoolfc.com/",
+        "latlng": [
+          53.4302573,
+          -2.9639048
+        ]
+      },
+      {
+        "name": "Hot Wok",
+        "address": "87 Langham St, Liverpool L4 4DA",
+        "phoneNumber": "0151 207 5860",
+        "website": "",
+        "latlng": [
+         53.4372762,
+         -2.970041
+        ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Stanley Park Hotel",
+        "address": "27A Anfield Rd, Liverpool L4 0TF",
+        "phoneNumber": "07810 100900",
+        "website": "https://shouthotels.com/stanley-park-hotel-liverpool-england/",
+        "latlng": [
+          53.4330299,-2.9653242
+        ]
+      },
+      {
+        "name": "Hotel ibis Styles Liverpool Centre Dale Street",
+        "address": "67 Dale St, Liverpool L2 2HJ",
+        "phoneNumber": "0151 243 1720",
+        "website": "http://www.accorhotels.com/gb/hotel-7601-ibis-styles-liverpool-centre-dale-street-cavern-quarter/index.shtml",
+        "latlng": [
+         53.408491,
+         -2.9900173
+       ]
+      }
+    ]
+  },
+
+  { 
+    "name": "Hull City FC",
+    "code": "HUL",
+    "website": "http://www.hullcitytigers.com/",
+    "crestURL": "http://upload.wikimedia.org/wikipedia/de/a/a9/Hull_City_AFC.svg",
+    "stadium": "KCOM Stadium",
+    "latlng": [
+      53.746111,
+      -0.367778
+    ],
+    "pubs": [
+      {
+        "name": "Brickmakers Arms",
+        "address": "57-65 Walton St, Hull HU3 6JB",
+        "phoneNumber": "01482 508913",
+        "website": "",
+        "latlng": [
+          53.7455791,
+          -0.3765638
+        ]
+      },
+      {
+        "name": "The Bowery",
+        "address": "30-32 Princes Ave, Hull HU5 3QA",
+        "phoneNumber": "01482 441126",
+        "website": "http://www.marstons.co.uk/pubs/finder/",
+        "latlng": [
+         53.7539751,
+         -0.3618384
+        ]
+      },
+      {
+        "name": "Editorial Inn",
+        "address": "48 Spring Bank, Hull HU3 1AB",
+        "phoneNumber": "01482 327738",
+        "website": "",
+        "latlng": [
+          53.7491836,
+          -0.3515977
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "The Madras Restaurant",
+        "address": "249-251 Anlaby Rd, Hull HU3 2SE",
+        "phoneNumber": "01482 213321",
+        "website": "http://www.the-madras.com/",
+        "latlng": [
+          53.7431439,
+          -0.3630857
+        ]
+      },
+      {
+        "name": "Bengal Lounge",
+        "address": "31-33 Princes Ave, Hull HU5 3RX",
+        "phoneNumber": "01482 473945",
+        "website": "http://www.bengalloungeindian.co.uk/",
+        "latlng": [
+         53.7525583,
+         -0.3631223
+        ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "The Gilson Hotel",
+        "address": "11 Anlaby Rd, Hull HU1 2PJ",
+        "phoneNumber": "01482 323299",
+        "website": "http://www.gilsonhotel.co.uk/",
+        "latlng": [
+          53.7431099,
+          -0.3471989
+        ]
+      },
+      {
+        "name": "The Kingston Theatre Hotel",
+        "address": "1-2 Kingston Square, Hull HU2 8DA",
+        "phoneNumber": "01482 225828",
+        "website": "http://www.kingstontheatrehotel.com/",
+        "latlng": [
+         53.7476569,
+         -0.3411236
+        ]
+      }
+    ]
+  },
+
+  { 
+    "name": "Leicester City FC",
+    "code": "LCFC",
+    "website": "http://www.lcfc.com/",
+    "crestURL": "http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png",
+    "stadium": "King Power Stadium",
+    "latlng": [
+      52.620278,
+      -1.142222
+    ],
+    "pubs": [
+      {
+        "name": "Soar Point",
+        "address": "The Newarke, Leicester LE2 7BY",
+        "phoneNumber": "0116 204 4911",
+        "website": "http://www.thesoarpointleicester.co.uk/",
+        "latlng": [
+          52.6310089,
+          -1.1506833
+        ]
+      },
+      {
+        "name": "Local Hero Flaming Grill",
+        "address": "84 Aylestone Rd, Leicester LE2 7LB",
+        "phoneNumber": "0116 275 5330",
+        "website": "http://www.flaminggrillpubs.com/pub/local-hero-leicester/m6948/?utm_source=g_places&utm_medium=link&utm_campaign=places&utm_content=m6948",
+        "latlng": [
+         52.6208262,
+         -1.1377255
+        ]
+      },
+      {
+        "name": "The Counting House",
+        "address": "40 Almond Rd, Leicester LE2 7LH",
+        "phoneNumber": "0116 275 5527",
+        "website": "http://www.gkmeetandeat.co.uk/locations/counting-house-leicester/?utm_source=g_places&utm_medium=locations&utm_campaign=counting-house-leicester",
+        "latlng": [
+          52.6211501,
+          -1.1352943
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "The White Peacock",
+        "address": "16 King St, Leicester LE1 6RJ",
+        "phoneNumber": "0116 254 7663",
+        "website": "http://www.the-white-peacock.co.uk/",
+        "latlng": [
+          52.6313461,
+          -1.1342948
+        ]
+      },
+      {
+        "name": "Shivalli",
+        "address": "21 Welford Rd, Leicester LE2 7AD",
+        "phoneNumber": "0116 255 0137",
+        "website": "http://www.shivallirestaurant.com/",
+        "latlng": [
+         52.6309976,
+         -1.1360767
+        ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Premier Inn Leicester North West",
+        "address": "Leicester Road, Leicester LE3 8HB",
+        "phoneNumber": "0871 527 8598",
+        "website": "http://www.premierinn.com/gb/en/hotels/england/leicestershire/leicester/leicester-north-west.html?cid=GLBC_LEIGYN",
+        "latlng": [
+          52.6574987,
+          -1.1936447
+        ]
+      },
+      {
+        "name": "Holiday Inn Express Leicester",
+        "address": "Filbert Way, Leicester LE2 7FL",
+        "phoneNumber": "0116 249 4590",
+        "website": "https://www.ihg.com/holidayinnexpress/hotels/gb/en/leicester/lctws/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-GBR-_-LCTWS",
+        "latlng": [
+         52.6217523,
+         -1.1450723
+        ]
+      }
+    ]
+  },
+
+  { 
+    "name": "Liverpool FC",
+    "code": "LFC",
+    "website": "http://www.liverpoolfc.com/",
+    "crestURL": "http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg",
+    "stadium": "Anfield",
+    "latlng": [
+      53.430828,
+      -2.960847
+    ],
+    "pubs": [
+      {
+        "name": "The Cavern Pub",
+        "address": "10 Mathew St, Liverpool L2 6RE",
+        "phoneNumber": "0151 236 9091",
+        "website": "https://www.cavernclub.org/",
+        "latlng": [
+          53.406376,
+          -2.9903576
+        ]
+      },
+      {
+        "name": "The Richard John Blackler",
+        "address": "Charlotte Row, 53 Great Charlotte St, Liverpool L1 1HU",
+        "phoneNumber": "0151 709 4802",
+        "website": "https://www.jdwetherspoon.com/",
+        "latlng": [
+         53.4060786,
+         -2.9821259
+        ]
+      },
+      {
+        "name": "The Flat Iron",
+        "address": "375-377 Walton Breck Rd, Liverpool L4 0SY",
+        "phoneNumber": "",
+        "website": "",
+        "latlng": [
+          53.4282015,
+          -2.9565826
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "Kemps Bistro",
+        "address": "Stanley Park, Anfield Rd, Liverpool L4 0TD",
+        "phoneNumber": "0151 263 0363",
+        "website": "http://theislagladstone.co.uk/kemps-bistro/",
+        "latlng": [
+          53.43369,
+          -2.9692487
+        ]
+      },
+      {
+        "name": "Anfield Balti House",
+        "address": "116 Breck Rd, Liverpool L4 2RD",
+        "phoneNumber": "0151 222 1414",
+        "website": "",
+        "latlng": [
+         53.4249124,
+         -2.9564088
+        ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Hotel Anfield",
+        "address": "23 Anfield Road, Anfield, Liverpool, Merseyside L4 0TE",
+        "phoneNumber": "0845 812 1234",
+        "website": "",
+        "latlng": [
+          53.4332653,
+          -2.9660451
+        ]
+      },
+      {
+        "name": "Stanley Park Hotel",
+        "address": "27A Anfield Rd, Liverpool L4 0TF",
+        "phoneNumber": "07810 100900",
+        "website": "https://shouthotels.com/stanley-park-hotel-liverpool-england/",
+        "latlng": [
+         53.4330299,
+         -2.9653242
+        ]
+      }
+    ]
+  },
+
+  { 
+    "name": "Manchester City FC",
+    "code": "MCFC",
+    "website": "https://www.mancity.com/",
+    "crestURL": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+    "stadium": "The Etihad",
+    "latlng": [
+      53.483056,
+      -2.200278
+    ],
+    "pubs": [
+      {
+        "name": "The Printworks",
+        "address": "27 Withy Grove, Manchester M4 2BS",
+        "phoneNumber": "0161 829 8000",
+        "website": "http://www.theprintworks.com/",
+        "latlng": [
+          53.4852858,
+          -2.242947
+        ]
+      },
+      {
+        "name": "Yates’s",
+        "address": "49 Portland St, Manchester M1 3LD",
+        "phoneNumber": "0161 228 0162",
+        "website": "http://www.weareyates.co.uk/manchester/",
+        "latlng": [
+         53.4784835,
+         -2.2402708
+       ]
+      },
+      {
+        "name": "The Green",
+        "address": "Bridge House, 26 Ducie St, Manchester M1 2DQ",
+        "phoneNumber": "0161 228 0681",
+        "website": "http://www.thegreenmanchester.com/",
+        "latlng": [
+          53.4796791,
+          -2.2283444
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "Le Delicatezze Di Bruno",
+        "address": "564 Ashton New Rd, Manchester M11 4RP",
+        "phoneNumber": "0161 231 8349",
+        "website": "http://ledelicatezzedibruno.com/",
+        "latlng": [
+          53.4831205,
+          -2.1900953
+        ]
+      },
+      {
+        "name": "Pieminister",
+        "address": "53 Church St, Manchester M4 1PD",
+        "phoneNumber": "0161 819 1279",
+        "website": "http://www.pieminister.co.uk/",
+        "latlng": [
+         53.4827994,
+         -2.2382085
+        ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Hotel ibis budget Manchester Centre Pollard Street",
+        "address": "2 Pollard St, Manchester M4 7DB",
+        "phoneNumber": "0161 272 2020",
+        "website": "http://www.accorhotels.com/gb/hotel-6943-ibis-budget-manchester-centre-pollard-street/index.shtml",
+        "latlng": [
+          53.4794203,
+          -2.2241538
+        ]
+      },
+      {
+        "name": "Travelodge Hotel - Manchester Sportcity",
+        "address": "Birch Street, Manchester M12 5NT",
+        "phoneNumber": "0871 984 6293",
+        "website": "https://www.travelodge.co.uk/hotels/285/Manchester-Sportcity-hotel?WT.tsrc=GHA_Organic&utm_campaign=GHA_Manchester%20Sportcity&utm_medium=GHA_Organic&utm_source=google",
+        "latlng": [
+         53.4655036,
+         -2.1956044
+        ]
+      }
+    ]
+  },
+
+  { 
+    "name": "Manchester United FC",
+    "code": "MUFC",
+    "website": "http://www.manutd.com/",
+    "crestURL": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg",
+    "stadium": "Old Trafford",
+    "latlng": [
+      53.463056,
+      -2.291389
+    ],
+    "pubs": [
+         {
+           "name": "The Printworks",
+           "address": "27 Withy Grove, Manchester M4 2BS",
+           "phoneNumber": "0161 829 8000",
+           "website": "http://www.theprintworks.com/",
+           "latlng": [
+             53.4852858,
+             -2.242947
+           ]
+         },
+        {
+          "name": "Yates’s",
+          "address": "49 Portland St, Manchester M1 3LD",
+          "phoneNumber": "0161 228 0162",
+          "website": "http://www.weareyates.co.uk/manchester/",
+          "latlng": [
+           53.4784835,
+           -2.2402708
+         ]
+        },
+         {
+           "name": "The Green",
+           "address": "Bridge House, 26 Ducie St, Manchester M1 2DQ",
+           "phoneNumber": "0161 228 0681",
+           "website": "http://www.thegreenmanchester.com/",
+           "latlng": [
+             53.4796791,
+             -2.2283444
+           ]
+         }
+       ],
+    "foodOutlets": [
+      {
+        "name": "Red Marrakech - Morroccan restaurant",
+        "address": "97 Ayres Rd, Stretford, Old Trafford M16 7GS",
+        "phoneNumber": "0161 637 6161",
+        "website": "",
+        "latlng": [
+          53.4584434,
+          -2.2700304
+        ]
+      },
+      {
+        "name": "Spices Of Kashmir (Old Trafford)",
+        "address": "89 Ayres Rd, Stretford, Manchester M16 7GS",
+        "phoneNumber": "0161 232 0478",
+        "website": "",
+        "latlng": [
+         53.4585388,
+         -2.2695162
+        ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Chesters Hotel & Restaurant",
+        "address": "730 Chester Rd, Stretford, Manchester M32 0RS",
+        "phoneNumber": "0161 877 5375",
+        "website": "http://chestershotel.co.uk/",
+        "latlng": [
+          53.4601552,
+          -2.2932261
+        ]
+      },
+      {
+        "name": "Premier Inn Manchester Old Trafford",
+        "address": "Sir Alex Ferguson Way, Trafford Park, Manchester M17 1WS",
+        "phoneNumber": "0871 527 8750",
+        "website": "http://www.premierinn.com/gb/en/hotels/england/greater-manchester/manchester/manchester-old-trafford.html?cid=GLBC_MANOLD",
+        "latlng": [
+         53.4657643,
+         -2.2908157
+        ]
+      }
+    ]
+  },
+
+  { 
+    "name": "Middlesbrough FC",
+    "code": "MID",
+    "website": "http://www.mfc.co.uk/",
+    "crestURL": "https://upload.wikimedia.org/wikipedia/en/2/2c/Middlesbrough_FC_crest.svg",
+    "stadium": "Riverside Stadium",
+    "latlng": [
+      54.578333,
+      -1.216944
+    ],
+    "pubs": [
+      {
+        "name": "The Isaac Wilson",
+        "address": "61 Wilson St, Middlesbrough TS1 1SF",
+        "phoneNumber": "01642 247708",
+        "website": "https://www.jdwetherspoon.com/pubs/all-pubs/england/north-yorkshire/the-isaac-wilson-middlesbrough",
+        "latlng": [
+          54.578038,
+          -1.239322
+        ]
+      },
+      {
+        "name": "Dr Browns",
+        "address": "135 Corporation Rd, Middlesbrough TS1 2RR",
+        "phoneNumber": "01642 803648",
+        "website": "",
+        "latlng": [
+         54.575943,
+         -1.2306247
+        ]
+      },
+      {
+        "name": "O'Connells",
+        "address": "29-41 Bedford St, Middlesbrough TS1 2LL",
+        "phoneNumber": "01642 651621",
+        "website": "http://www.oconnellspub.co.uk/",
+        "latlng": [
+          54.5676929,
+          -1.2526154
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "Brasserie Hudson Quay Bar-Restaurant",
+        "address": "Brasserie Hudson Quay Windward Way, Middlesbrough TS2 1QG",
+        "phoneNumber": "01642 261166",
+        "website": "http://www.brasseriehudsonquay.com/",
+        "latlng": [
+          54.577597,
+          -1.2234927
+        ]
+      },
+      {
+        "name": "The Six Medals",
+        "address": "Heath Road, Middlehaven, Middlesbrough TS3 6AT",
+        "phoneNumber": "01642 688044",
+        "website": "http://www.sixmedalspubmiddlesbrough.co.uk/",
+        "latlng": [
+         54.5745532,
+         -1.2183516
+       ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Holiday Inn Express Middlesbrough - Centre Square",
+        "address": "Former Cook And Endeavour House, Albert Rd, Middlesbrough TS1 2PQ",
+        "phoneNumber": "01642 917113",
+        "website": "https://www.ihg.com/holidayinnexpress/hotels/gb/en/middlesbrough/mcsuk/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-GBR-_-MCSUK",
+        "latlng": [
+          54.574735,
+          -1.2381317
+        ]
+      },
+      {
+        "name": "The Baltimore Hotel",
+        "address": "250 Marton Rd, Middlesbrough TS4 2EZ",
+        "phoneNumber": "01642 224111",
+        "website": "http://www.baltimore-hotel.co.uk/",
+        "latlng": [
+         54.566948,
+         -1.2258107
+        ]
+      }
+    ]
+  },
+
+  { 
+    "name": "Southampton FC",
+    "code": "SFC",
+    "website": "https://southamptonfc.com/",
+    "crestURL": "http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg",
+    "stadium": "St Mary’s Stadium",
+    "latlng": [
+      50.905833,
+      -1.391111
+    ],
+    "pubs": [
+      {
+        "name": "Yates's",
+        "address": "113-117 Above Bar St, Southampton SO14 7FH",
+        "phoneNumber": "023 8063 4609",
+        "website": "http://www.weareyates.co.uk/southampton/",
+        "latlng": [
+          50.9065386,
+          -1.4068526
+        ]
+      },
+      {
+        "name": "The Standing Order",
+        "address": "30 High St, Southampton SO14 2DF",
+        "phoneNumber": "023 8022 2121",
+        "website": "https://www.jdwetherspoon.com/pubs/all-pubs/england/hampshire/the-standing-order-southampton",
+        "latlng": [
+         50.9005106,
+         -1.4059407
+        ]
+      },
+      {
+        "name": "The Rockstone",
+        "address": "63 Onslow Rd, Bevois Valley, Southampton SO14 0JL",
+        "phoneNumber": "023 8063 7256",
+        "website": "http://therockstone.co.uk/",
+        "latlng": [
+          50.915169,
+          -1.3998397
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "Turtle Bay Southampton",
+        "address": "1 Guildhall Square, Southampton SO14 7FP",
+        "phoneNumber": "023 8063 9568",
+        "website": "http://www.turtlebay.co.uk/locations/southampton/",
+        "latlng": [
+          50.9077491,
+          -1.4069551
+        ]
+      },
+      {
+        "name": "Fusion Noodle Bar",
+        "address": "15-16 St Mary St, Southampton SO14 1NP",
+        "phoneNumber": "023 8063 2221",
+        "website": "http://www.fusionnoodlebar.co.uk/",
+        "latlng": [
+         50.902341,
+         -1.3989617
+        ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "The Star Hotel",
+        "address": "26-27 High St, Southampton SO14 2NA",
+        "phoneNumber": "023 8033 9939",
+        "website": "http://www.starhotel.co.uk/",
+        "latlng": [
+          50.9008127,
+          -1.4059309
+        ]
+      },
+      {
+        "name": "Jurys Inn Southampton",
+        "address": "Charlotte Pl, Southampton SO14 0TB",
+        "phoneNumber": "023 8037 1111",
+        "website": "https://www.jurysinns.com/hotels/southampton",
+        "latlng": [
+         50.9106418,
+         -1.4034709
+        ]
+      }
+    ]
+  },
+
+  { 
+    "name": "Stoke City FC",
+    "code": "SCFC",
+    "website": "http://www.stokecityfc.com/",
+    "crestURL": "http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg",
+    "stadium": "bet365 Stadium",
+    "latlng": [
+      52.988333,
+      -2.175556
+    ],
+    "pubs": [
+      {
+        "name": "Longton Rugby Union Football Club",
+        "address": "Sir Stanley Matthews Way, Stoke-on-Trent ST4 8WG",
+        "phoneNumber": "01782 594016",
+        "website": "http://www.longtonrugby.co.uk/",
+        "latlng": [
+          52.978496,
+          -2.1702327
+        ]
+      },
+      {
+        "name": "The Terrace",
+        "address": "185 Leek Rd, Stoke on Trent ST4 2BW",
+        "phoneNumber": "01782 848021",
+        "website": "http://www.theterrace-stoke.co.uk/",
+        "latlng": [
+         53.0049044,
+         -2.1900039
+       ]
+      },
+      {
+        "name": "The Glebe",
+        "address": "35 Glebe St, Stoke-on-Trent, Staffordshire ST4 1HG",
+        "phoneNumber": "01782 860670",
+        "website": "http://www.joulesbrewery.co.uk/pubs/pub_details.php?id=9",
+        "latlng": [
+          53.0049054,
+          -2.1834378
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "Harvester Trentham Lakes",
+        "address": "Trentham Lakes District Centre, Stanley Matthews Way, Stoke-on-Trent ST4 8AD",
+        "phoneNumber": "01782 331234",
+        "website": "http://www.harvester.co.uk/restaurants/eastandwestmidlands/harvestertrenthamlakesstokeontrent",
+        "latlng": [
+          52.989372,
+          -2.1754817
+        ]
+      },
+      {
+        "name": "Frankie & Benny's",
+        "address": "Trentham Gardens, Stone Road, Stoke-on-Trent ST4 8AX",
+        "phoneNumber": "01782 645180",
+        "website": "http://www.frankieandbennys.com/",
+        "latlng": [
+         52.9893514,
+         -2.2433326
+        ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Holiday Inn Express Stoke on Trent",
+        "address": "Stanley Matthews Way, Trentham Lakes, Stoke-on-Trent ST4 4EG",
+        "phoneNumber": "0871 902 1629",
+        "website": "https://www.ihg.com/holidayinnexpress/hotels/gb/en/stoke-on-trent/xwhuk/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-GBR-_-XWHUK&_PMID=99300950",
+        "latlng": [
+          52.9895887,
+          -2.1737209
+        ]
+      },
+      {
+        "name": "The Plough Motel",
+        "address": "Campbell Rd, Stoke-on-Trent ST4 4EN",
+        "phoneNumber": "01782 414685",
+        "website": "http://www.ploughmotelstoke.com/",
+        "latlng": [
+         52.9939429,
+         -2.1869044
+        ]
+      }
+    ]
+  },
+
+  { 
+    "name": "Sunderland AFC",
+    "code": "SUN",
+    "website": "https://www.safc.com/",
+    "crestURL": "http://upload.wikimedia.org/wikipedia/de/6/60/AFC_Sunderland.svg",
+    "stadium": "Stadium of Light",
+    "latlng": [
+      54.9144,
+      -1.3882
+    ],
+    "pubs": [
+      {
+        "name": "The Victory",
+        "address": "39-41 North Bridge St, Sunderland SR5 1AH",
+        "phoneNumber": "0191 565 9209",
+        "website": "",
+        "latlng": [
+          54.9135562,
+          -1.3855084
+        ]
+      },
+      {
+        "name": "The William Jameson",
+        "address": "30-32 Fawcett St, Sunderland SR1 1RH",
+        "phoneNumber": "+44 191 514 5016",
+        "website": "https://www.jdwetherspoon.com/pubs/all-pubs/england/tyne-and-wear/the-william-jameson-sunderland",
+        "latlng": [
+         54.9046272,
+         -1.3831937
+       ]
+      },
+      {
+        "name": "The Cambridge",
+        "address": "88 Fulwell Rd, Sunderland SR6 0JB",
+        "phoneNumber": "0191 567 0188",
+        "website": "",
+        "latlng": [
+          54.9192451,
+          -1.3816824
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "Monsoon Kitchen",
+        "address": "1 North Bridge St, Sunderland SR5 1AD",
+        "phoneNumber": "0191 514 4222",
+        "website": "http://www.monsoon-kitchen.co.uk/",
+        "latlng": [
+          54.9141522,
+          -1.3846931
+        ]
+      },
+      {
+        "name": "Italian Kitchen",
+        "address": "Thompson Rd, Sunderland SR5 2SQ",
+        "phoneNumber": "0191 548 6004",
+        "website": "http://www.theitalian-kitchen.co.uk/",
+        "latlng": [
+         54.923121,
+         -1.3987093
+       ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Hilton Garden Inn Sunderland",
+        "address": "Vaux Brewery Way, Sunderland SR5 1SN",
+        "phoneNumber": "0191 500 9494",
+        "website": "http://hiltongardeninn3.hilton.com/en/hotels/united-kingdom/hilton-garden-inn-sunderland-NCLGIGI/index.html?WT.mc_id=zELWAKN0EMEA1GI2DMH3LocalSearch4DGGenericx6NCLGIGI",
+        "latlng": [
+          54.9157107,
+          -1.3892738
+        ]
+      },
+      {
+        "name": "Sunderland Marriott Hotel",
+        "address": "Queen's Ave, Sunderland SR6 8DB",
+        "phoneNumber": "0191 529 2041",
+        "website": "http://www.marriott.com/hotels/travel/nclsl-sunderland-marriott-hotel/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2",
+        "latlng": [
+         54.933693,
+         -1.3706507
+        ]
+      }
+    ]
+  },
+
+  { 
+    "name": "Swansea City FC",
+    "code": "SWA",
+    "website": "http://www.swanseacity.net/",
+    "crestURL": "http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg",
+    "stadium": "Liberty Stadium",
+    "latlng": [
+      51.6422,
+      -3.9351
+    ],
+    "pubs": [
+      {
+        "name": "The Bank Statement",
+        "address": "57-58 Wind St, Swansea SA1 1EP",
+        "phoneNumber": "01792 455477",
+        "website": "https://www.jdwetherspoon.com/",
+        "latlng": [
+          51.6193476,
+          -3.9426823
+        ]
+      },
+      {
+        "name": "Yates’s",
+        "address": "1-4 Caer St, Swansea SA1 3PP",
+        "phoneNumber": "01792 472440",
+        "website": "http://www.weareyates.co.uk/swansea/",
+        "latlng": [
+         51.619983,
+         -3.9437182
+       ]
+      },
+      {
+        "name": "The No Sign Bar",
+        "address": "56 Wind St, Swansea SA1 1EG",
+        "phoneNumber": "01792 465300",
+        "website": "http://nosignwinebar.com/",
+        "latlng": [
+          51.6193146,
+          -3.9425307
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "Frankie & Bennys",
+        "address": "Morfa Shopping Park, Brunel Way, Plasmarl, Swansea SA1 2FB",
+        "phoneNumber": "01792 657420",
+        "website": "http://www.frankieandbennys.com/",
+        "latlng": [
+          51.6192989,
+          -3.9753614
+        ]
+      },
+      {
+        "name": "Harvester",
+        "address": "Morfa Shopping Park, Brunel Way, Bon-y-maen, Plasmarl, Swansea SA1 7BP",
+        "phoneNumber": "01792 475605",
+        "website": "http://www.harvester.co.uk/restaurants/wales/themorfaparcswansea",
+        "latlng": [
+         51.641274,
+         -3.9374277
+       ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Mercure Swansea Hotel",
+        "address": "Phoenix Way, Llansamlet, Swansea SA7 9EG",
+        "phoneNumber": "0844 815 9081",
+        "website": "http://www.accorhotels.com/gb/hotel-8332-mercure-swansea-hotel/index.shtml",
+        "latlng": [
+          51.6547544,
+          -3.914587
+        ]
+      },
+      {
+        "name": "The Grand Hotel",
+        "address": "Ivey Place, High Street, Swansea SA1 1NX",
+        "phoneNumber": "01792 645898",
+        "website": "http://www.thegrandhotelswansea.co.uk/",
+        "latlng": [
+         51.6337655,
+         -3.9466539
+       ]
+      }
+    ]
+  },
+
+  { 
+    "name": "Tottenham Hotspur FC",
+    "code": "THFC",
+    "website": "http://www.tottenhamhotspur.com/",
+    "crestURL": "http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg",
+    "stadium": "White Hart Lane",
+    "latlng": [
+      51.603333,
+      -0.065833
+    ],
+    "pubs": [
+      {
+        "name": "Harringey Irish Club",
+        "address": "Pretoria Rd, Tottenham, London N17 8DX",
+        "phoneNumber": "020 8885 3490",
+        "website": "http://www.haringey-irish.com/",
+        "latlng": [
+          51.6063354,
+          -0.0743208
+        ]
+      },
+      {
+        "name": "The Three Compasses",
+        "address": "62 High St, London N8 7NX",
+        "phoneNumber": "020 8340 2729",
+        "website": "http://www.threecompasses.com/",
+        "latlng": [
+         51.5874534,
+         -0.1208703
+        ]
+      },
+      {
+        "name": "The Elmhust",
+        "address": "131 Lordship Lane, Tottenham, London N17 6XE",
+        "phoneNumber": "07506 631128",
+        "website": "http://theelmhurst.co.uk/",
+        "latlng": [
+          51.598353,
+          -0.0780937
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "Sakunthala's Pan Asia",
+        "address": "Sakunthala's Pan Asia, 5 White Hart Ln, London SW13 0PX",
+        "phoneNumber": "020 8878 7523",
+        "website": "",
+        "latlng": [
+          51.4706641,
+          -0.2576695
+        ]
+      },
+      {
+        "name": "White Hart Lane Jerk Centre",
+        "address": "733 High Rd, London N17 8AG",
+        "phoneNumber": "020 8801 6644",
+        "website": "https://plus.google.com/100919228169714545846",
+        "latlng": [
+         51.6038627,
+         -0.070328
+       ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Premier Inn London Edmonton",
+        "address": "Advent Way, Edmonton, London N18 3AF",
+        "phoneNumber": "0871 527 9404",
+        "website": "http://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-edmonton.html?cid=GLBC_LONEDM",
+        "latlng": [
+          51.6123089,
+          -0.0504899
+        ]
+      },
+      {
+        "name": "Premier Inn London Tottenham Hale Hotel",
+        "address": "Station Road, Tottenham Hale, London N17 9LR",
+        "phoneNumber": "0871 527 9614",
+        "website": "http://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-tottenham-hale.html",
+        "latlng": [
+         51.5888115,
+         -0.064892
+       ]
+      }
+    ]
+  },
+
+  { 
+    "name": "Watford FC",
+    "code": "WAT",
+    "website": "https://www.watfordfc.com/",
+    "crestURL": "https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg",
+    "stadium": "Vicarage Road",
+    "latlng": [
+      51.649836,
+      -0.401486
+    ],
+    "pubs": [
+      {
+        "name": "The Oddfellows",
+        "address": "14 Fearnley St, Watford WD18 0RD",
+        "phoneNumber": "01923 225766",
+        "website": "http://oddfellowswatford.co.uk/",
+        "latlng": [
+          51.6524219,
+          -0.4029258
+        ]
+      },
+      {
+        "name": "Moon Under Water",
+        "address": "44 High St, Watford WD17 2BS",
+        "phoneNumber": "01923 223559",
+        "website": "https://www.jdwetherspoon.com/pubs/all-pubs/england/hertfordshire/the-moon-under-water-watford",
+        "latlng": [
+         51.6219345,
+         -0.3943334 
+        ]
+      },
+      {
+        "name": "Bosleys",
+        "address": "107-115 The Parade, High St, Watford WD17 1LU",
+        "phoneNumber": "01923 239422",
+        "website": "http://www.bosleysbar.co.uk/",
+        "latlng": [
+          51.658853,
+          -0.4025997
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "Kasturi",
+        "address": "56C Vicarage Rd, Watford WD18 0EN",
+        "phoneNumber": "01923 630530",
+        "website": "http://www.kasturi-watford.com/",
+        "latlng": [
+          51.6514294,
+          -0.4031156
+        ]
+      },
+      {
+        "name": "Patwarls",
+        "address": "99 Vicarage Rd, Watford WD18 0EB",
+        "phoneNumber": "01923 235940",
+        "website": "http://www.patwarlsrestaurant.co.uk/",
+        "latlng": [
+         51.6519473,
+         -0.4027712
+        ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Premier Inn Watford Croxley Green",
+        "address": "2 Ascot Rd, Watford WD18 8AD",
+        "phoneNumber": "0871 527 9138",
+        "website": "http://www.premierinn.com/gb/en/hotels/england/hertfordshire/watford/watford-croxley-green.html?cid=GLBC_WATBRE",
+        "latlng": [
+          51.6514885,
+          -0.4263264
+        ]
+      },
+      {
+        "name": "Holiday Inn London - Watford Junction",
+        "address": "67, 65 Clarendon Rd, Watford WD17 1DS",
+        "phoneNumber": "01923 227274",
+        "website": "https://www.ihg.com/holidayinn/hotels/gb/en/watford/lonju/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-GBR-_-LONJU",
+        "latlng": [
+         51.6635954,
+         -0.4000738
+       ]
+      }
+    ]
+  },
+
+  { 
+    "name": "West Bromwich Albion FC",
+    "code": "WBA",
+    "website": "http://www.wba.co.uk/",
+    "crestURL": "http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg",
+    "stadium": "The Hawthorns",
+    "latlng": [
+      52.509167,
+      -1.963889
+    ],
+    "pubs": [
+      {
+        "name": "The Royal Oak",
+        "address": "Royal Oak, 14 Newton St, West Bromwich B71",
+        "phoneNumber": "",
+        "website": "",
+        "latlng": [
+          52.5367479,
+          -1.9845849
+        ]
+      },
+      {
+        "name": "The Sportsmans Club",
+        "address": "13 High St, West Bromwich B70 6PP",
+        "phoneNumber": "0121 553 1353",
+        "website": "http://www.thesportsmanclub.co.uk/",
+        "latlng": [
+         52.5132808,
+         -1.9921036
+        ]
+      },
+      {
+        "name": "The Vine",
+        "address": "The Vine, 152 Roebuck St, West Bromwich B70 6RD",
+        "phoneNumber": "0121 553 2866",
+        "website": "http://www.thevine.co.uk/",
+        "latlng": [
+          52.5132834,
+          -1.9921036
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "McDonald's",
+        "address": "152 Holyhead Road, Handsworth, Sandwell B21 0AP",
+        "phoneNumber": "0121 525 2885",
+        "website": "http://www.mcdonalds.co.uk/ukhome/menu.html",
+        "latlng": [
+          52.510092,
+          -1.9640435
+        ]
+      },
+      {
+        "name": "Kebub",
+        "address": "White Swan, 34 Bromford Ln, West Bromwich B70 7HW",
+        "phoneNumber": "0121 500 6211",
+        "website": "http://www.kebub.co.uk/",
+        "latlng": [
+         52.5143814,
+         -2.0033741
+        ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Park Inn by Radisson Birmingham West",
+        "address": "M5 Jct1, Birmingham Rd, West Bromwich B70 6RS",
+        "phoneNumber": "0121 609 9988",
+        "website": "https://www.parkinn.co.uk/hotel-birminghamwest",
+        "latlng": [
+          52.513985,
+          -1.9783625
+        ]
+      },
+      {
+        "name": "Premier Inn West Bromwich Central",
+        "address": "144 High St, West Bromwich B70 6JJ",
+        "phoneNumber": "0871 527 9150",
+        "website": "http://www.premierinn.com/gb/en/hotels/england/west-midlands/west-bromwich/west-bromwich-central.html?cid=GLBC_WESBRO",
+        "latlng": [
+         52.5157033,
+         -1.9917227
+       ]
+      }
+    ]
+  },
+
+  { 
+    "name": "West Ham United FC",
+    "code": "WHU",
+    "website": "https://www.whufc.com/",
+    "crestURL": "http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg",
+    "stadium": "London Stadium",
+    "latlng": [
+      51.538611,
+      -0.016389
+    ],
+    "pubs": [
+      {
+        "name": "Golden Grove",
+        "address": "146-148 The Grove, London E15 1NS",
+        "phoneNumber": "020 8519 0750",
+        "website": "https://www.jdwetherspoon.com/pubs/all-pubs/england/london/goldengrove-stratford",
+        "latlng": [
+          51.5437678,
+          0.0017577
+        ]
+      },
+      {
+        "name": "J J Moon's",
+        "address": "397 High Rd, London HA9 6AA",
+        "phoneNumber": "020 8903 4923",
+        "website": "https://www.jdwetherspoon.com/pubs/all-pubs/england/london/jj-moons-wembley",
+        "latlng": [
+         51.5052663,
+         -0.3786742
+       ]
+      },
+      {
+        "name": "The Langthorne",
+        "address": "Stratford Centre, 14 Broadway, London, Stratford E15 4QS",
+        "phoneNumber": "020 8534 7840",
+        "website": "http://www.thelangthornestratford.co.uk/",
+        "latlng": [
+          51.5402544,
+          -0.0019355
+        ]
+      }
+    ],
+    "foodOutlets": [
+      {
+        "name": "Forman's",
+        "address": "Stour Rd, London E3 2NT",
+        "phoneNumber": "020 8525 2365",
+        "website": "http://www.formans.co.uk/restaurant/",
+        "latlng": [
+          51.539221,
+          -0.0236867
+        ]
+      },
+      {
+        "name": "The Podium Bar & Kitchen",
+        "address": "Queen Elizabeth Olympic Park, London E20 2AD",
+        "phoneNumber": "0333 800 8099",
+        "website": "http://arcelormittalorbit.com/visit/food-and-drink/",
+        "latlng": [
+         51.538556,
+         -0.0142073
+        ]
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Travelodge London Stratford Hotel",
+        "address": "High St, London E15 2JG",
+        "phoneNumber": "0871 984 6502",
+        "website": "https://www.travelodge.co.uk/hotels/522/London-Stratford-hotel?utm_source=google&utm_medium=GHA_Organic&utm_campaign=GHA_London%20Stratford&WT.tsrc=GHA_Organic",
+        "latlng": [
+          51.5271701,
+          -0.0562303
+        ]
+      },
+      {
+        "name": "Staybridge Suites London - Stratford City",
+        "address": "Westfield Stratford City, Montfichet Rd, London E20 1GL",
+        "phoneNumber": "020 3301 9090",
+        "website": "https://www.ihg.com/staybridge/hotels/gb/en/london/lonpm/hoteldetail?cm_mmc=GoogleMaps-_-SB-_-GBR-_-LONPM",
+        "latlng": [
+         51.5271597,
+         -0.0562303
+       ]
+      }
+    ]
+  }
+]
